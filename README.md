@@ -1,6 +1,6 @@
 # Computer-Vision-Labs
 
-#*OpenCV Python - The Ultimate Tutorial to OpenCV*
+# *OpenCV Python - The Ultimate Tutorial to OpenCV*
 
 ## Table of Contents
 
